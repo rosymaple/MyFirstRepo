@@ -1,4 +1,4 @@
-# .gitignore - tells git what files to ignore
-
-_pychache_/
-
+# .gitignore
+__pycache__/
+*.pyc
+.env
